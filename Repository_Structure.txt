@@ -1,0 +1,13 @@
+NetDNSCleaner/
+│
+├── NetDNSCleaner.bat      # Main executable batch file
+├── README.md              # Project documentation
+├── requirements.py        # Requirements checker
+├── LICENSE               # MIT License
+│
+├── docs/
+│   ├── README.txt        # Plain text documentation
+│   └── README.html       # HTML documentation
+│
+└── .github/
+    └── workflows/        # For future CI/CD implementation
